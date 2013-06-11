@@ -1,0 +1,10 @@
+C:\Users\Alumno\AppData\Local\Temporary Projects\TareaObicua\bin\Debug\TareaObicua.exe
+C:\Users\Alumno\AppData\Local\Temporary Projects\TareaObicua\bin\Debug\TareaObicua.pdb
+C:\Users\Alumno\AppData\Local\Temporary Projects\TareaObicua\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alumno\AppData\Local\Temporary Projects\TareaObicua\obj\x86\Debug\TareaObicua.exe
+C:\Users\Alumno\AppData\Local\Temporary Projects\TareaObicua\obj\x86\Debug\TareaObicua.pdb
+Z:\TECNICATURAS\Reinoso Cecilia\PASANTIAS\Pasantias C#\Pasantia_2013- CeciliaReinoso\TareaObicua\TareaObicua\obj\x86\Debug\TareaObicua.exe
+Z:\TECNICATURAS\Reinoso Cecilia\PASANTIAS\Pasantias C#\Pasantia_2013- CeciliaReinoso\TareaObicua\TareaObicua\obj\x86\Debug\TareaObicua.pdb
+Z:\TECNICATURAS\Reinoso Cecilia\PASANTIAS\Pasantias C#\Pasantia_2013- CeciliaReinoso\TareaObicua\TareaObicua\bin\Debug\TareaObicua.exe
+Z:\TECNICATURAS\Reinoso Cecilia\PASANTIAS\Pasantias C#\Pasantia_2013- CeciliaReinoso\TareaObicua\TareaObicua\bin\Debug\TareaObicua.pdb
+Z:\TECNICATURAS\Reinoso Cecilia\PASANTIAS\Pasantias C#\Pasantia_2013- CeciliaReinoso\TareaObicua\TareaObicua\obj\x86\Debug\ResolveAssemblyReference.cache
