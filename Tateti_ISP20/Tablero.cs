@@ -6,6 +6,7 @@ using System.Collections;
 
 namespace Tateti_ISP20
 {
+    //metodo constructor
     public class Tablero
     {
         //hashtable es una clase que nos permite manejar diccionario de datos//

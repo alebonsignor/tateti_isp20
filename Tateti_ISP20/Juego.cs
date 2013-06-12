@@ -45,10 +45,12 @@ namespace Tateti_ISP20
             Console.Write("Jugador {0}: Ingrese el nro de ficha a mover: ", jugador_actual);
             //obtenemos una variable llamada posicion elegida
             // toma esa posicion y la convierte en entera
+            //intenta leer y convertir a int
             try
             {
                 ficha_a_mover = Convert.ToInt32(Console.ReadLine());
             }
+            //si esta mal da error y llama de nuevo al metodo
             catch
             {
                 Console.WriteLine("Error, Valor Incorrecto, presione una tecla para continuar");
